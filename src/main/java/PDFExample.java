@@ -99,6 +99,7 @@ public class PDFExample {
         }
     }
     static public void main(String args[]) throws IOException {
+        System.out.println("omi");
         String dest="exx.pdf";
         String engs="1234567";
         String bans="আমার নাম অমি";
